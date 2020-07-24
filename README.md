@@ -7,6 +7,8 @@ UWP system's PasswordBox can only show real text when you press the view passwor
 
 
 # My customized paasword box
+![](https://github.com/hupo376787/UWP-Custom-PasswordBox/blob/master/42d1a6269f3429da101776693a4c5b41%20(1).gif)
+
 [![UWP custom password box](https://res.cloudinary.com/marcomontalbano/image/upload/v1595578010/video_to_markdown/images/youtube--eHhDG3dW1bI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/eHhDG3dW1bI "UWP custom password box")
 
 # Usage 
